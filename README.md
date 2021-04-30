@@ -24,8 +24,7 @@ $ sudo apt install python3
 $ sudo apt install git
 $ sudo apt install python3-pip
 
-# Download tool
-$ git clone https://github.com/Arab-developers/HackerMode
+
 
 # Install
 $ sudo python3 -B HackerMode/ install
@@ -36,8 +35,7 @@ $ sudo python3 -B HackerMode/ install
 $ pkg install python
 $ pkg install git
 
-# Download tool
-$ git clone https://github.com/Arab-developers/HackerMode
+
 
 # Install
 $ python3 -B HackerMode/ install
