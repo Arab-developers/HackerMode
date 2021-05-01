@@ -1,3 +1,7 @@
+# Coded By JOKER7x Team
+
+___
+
 # HackerMode
 - [Support](#support)
 - [Install](#install)
@@ -25,7 +29,7 @@ $ sudo apt install git
 $ sudo apt install python3-pip
 
 # Download tool
-$ git clone https://github.com/Arab-developers/HackerMode
+$ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
 $ sudo python3 -B HackerMode/ install
@@ -37,7 +41,7 @@ $ pkg install python
 $ pkg install git
 
 # Download tool
-$ git clone https://github.com/Arab-developers/HackerMode
+$ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
 $ python3 -B HackerMode/ install
@@ -59,3 +63,5 @@ $ HackerMode check
 $ HackerMode update
 $ HackerMode upgread
 ```
+
+## JOKER7x Team
